@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
