@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0175-combine-two-tables) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1978-employees-whose-manager-left-the-company) |
