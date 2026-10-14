@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Newton's Method
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
