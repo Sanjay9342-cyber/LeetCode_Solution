@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
