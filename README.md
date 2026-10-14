@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
