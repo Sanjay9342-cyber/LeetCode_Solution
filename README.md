@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -75,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -87,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
