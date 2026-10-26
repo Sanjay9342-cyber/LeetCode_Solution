@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0035-search-insert-position) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
