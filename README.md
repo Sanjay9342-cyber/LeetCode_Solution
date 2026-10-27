@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
