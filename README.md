@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
