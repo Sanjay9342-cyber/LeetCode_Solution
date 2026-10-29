@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
 ## Stack
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
