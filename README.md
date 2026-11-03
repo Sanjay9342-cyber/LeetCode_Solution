@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
