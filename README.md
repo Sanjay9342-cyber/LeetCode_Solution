@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0389-find-the-difference) |
