@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0414-third-maximum-number) |
+| [0575-distribute-candies](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [0575-distribute-candies](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
