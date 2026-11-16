@@ -150,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0733-flood-fill) |
 ## Prefix Sum
 |  |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0412-fizz-buzz) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
