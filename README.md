@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0112-path-sum) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sanjay9342-cyber/LeetCode_Solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
